@@ -7,6 +7,9 @@ Using Multiple ControlNet in Blender.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 - [Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet)
 
+Note:
+To setup Stable Difusion locally check [here](https://www.howtogeek.com/830179/how-to-run-stable-diffusion-on-your-pc-to-generate-ai-images/)
+
 ## Usage
 
 ### 1. Start A1111 in API mode.
